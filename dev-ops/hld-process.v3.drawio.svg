@@ -1,0 +1,56 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1141px" height="2171px" viewBox="-0.5 -0.5 1141 2171" content="&lt;mxfile&gt;&lt;diagram id=&quot;ev5XgevUN0LJ7G_Ib_KI&quot; name=&quot;Page-1&quot;&gt;xZbBcoIwEIafhmM7kIDAsUVrZzqePHjOSIRMA2FCFOjTF8siYFDbsaUnkn832f2/kAEDB0m5lCSLVyKk3EBmWBp4biCEXW9WP45K1Sg+dhohkixsJKsT1uyDgmiCumchzQeJSgiuWDYUtyJN6VYNNCKlKIZpO8GHVTMSUU1YbwnX1Q0LVQyqNfO7wCtlUQylPeQ2gYS0yeAkj0koip6EFwYOpBCqGSVlQPkRXsulWfdyIXpqTNJUfWeBDSdxIHwP5qAxVbVu84IlnKT17FnfHioeqFS07ElQbklFQpWs6hSIPiCMwXw1PNWij9IGMe5hRJYLKoEDjE7bdx7rAdi8YNnVLK9Iuif8mvFcEangRayRjpE4obyNAowjrBt3R323Pd/l29N8L5maznR55vAKBO/vIPgahCcZiY2Q7zteX8SpaWDnnMajo/Pwx3nM2tx7iLQNnBEJ5pOzcGxryMIeIeGPk/gFDljnsFlPDsG1zf+EYGsQ3rzpIfi3ISDzwp34MYR62n1vv2K9vxa8+AQ=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 0 23 L 0 0 L 1140 0 L 1140 23" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 23 L 0 2170 L 1140 2170 L 1140 23" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 23 L 1140 23" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 43 L 0 23 L 170 23 L 170 43" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 43 L 0 2170 L 170 2170 L 170 43" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 43 L 170 43" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="84.5" y="37.5">
+                Manual
+            </text>
+        </g>
+        <path d="M 170 43 L 170 23 L 350 23 L 350 43" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 170 43 L 170 2170 L 350 2170 L 350 43" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 170 43 L 350 43" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="259.5" y="37.5">
+                Git
+            </text>
+        </g>
+        <path d="M 350 43.5 L 350 23.5 L 540 23.5 L 540 43.5" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 350 43.5 L 350 2170 L 540 2170 L 540 43.5" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 350 43.5 L 540 43.5" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="444.5" y="38">
+                ArgoWorkflow
+            </text>
+        </g>
+        <path d="M 541 44 L 541 24 L 740 24 L 740 44" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 541 44 L 541 2170 L 740 2170 L 740 44" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 541 44 L 740 44" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="640" y="38.5">
+                ArgoCD
+            </text>
+        </g>
+        <path d="M 740 44 L 740 24 L 939 24 L 939 44" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 740 44 L 740 2170 L 939 2170 L 939 44" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 740 44 L 939 44" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="839" y="38.5">
+                AWS
+            </text>
+        </g>
+        <path d="M 940 44 L 940 24 L 1140 24 L 1140 44" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 940 44 L 940 2170 L 1140 2170 L 1140 44" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 940 44 L 1140 44" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="1039.5" y="38.5">
+                K8S
+            </text>
+        </g>
+    </g>
+</svg>
